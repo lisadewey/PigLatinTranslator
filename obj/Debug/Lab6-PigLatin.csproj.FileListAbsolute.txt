@@ -1,0 +1,7 @@
+c:\users\lmdew\source\repos\Lab6-PigLatin\Lab6-PigLatin\bin\Debug\Lab6-PigLatin.exe.config
+c:\users\lmdew\source\repos\Lab6-PigLatin\Lab6-PigLatin\bin\Debug\Lab6-PigLatin.exe
+c:\users\lmdew\source\repos\Lab6-PigLatin\Lab6-PigLatin\bin\Debug\Lab6-PigLatin.pdb
+c:\users\lmdew\source\repos\Lab6-PigLatin\Lab6-PigLatin\obj\Debug\Lab6-PigLatin.csprojResolveAssemblyReference.cache
+c:\users\lmdew\source\repos\Lab6-PigLatin\Lab6-PigLatin\obj\Debug\Lab6-PigLatin.csproj.CoreCompileInputs.cache
+c:\users\lmdew\source\repos\Lab6-PigLatin\Lab6-PigLatin\obj\Debug\Lab6-PigLatin.exe
+c:\users\lmdew\source\repos\Lab6-PigLatin\Lab6-PigLatin\obj\Debug\Lab6-PigLatin.pdb
